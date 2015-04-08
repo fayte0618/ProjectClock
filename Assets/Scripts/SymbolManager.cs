@@ -19,8 +19,7 @@ public class SymbolManager : MonoBehaviour
 	{
 		
 	}
-
-	private void 
+	
 
 	#endregion
 
